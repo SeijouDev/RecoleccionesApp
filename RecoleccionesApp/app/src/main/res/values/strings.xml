@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecoleccionesApp</string>
+
+    <string-array name="lista_residuos">
+        <item>Vidrio</item>
+        <item>Plastico</item>
+        <item>Papel</item>
+        <item>Elementos Organicos</item>
+        <item>Elementos Electrónicos</item>
+        <item>Elementos Quirúrgicos</item>
+    </string-array>
+</resources>
